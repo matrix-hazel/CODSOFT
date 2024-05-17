@@ -32,4 +32,16 @@ Completed Tasks
    -Responsive design for mobile and desktop use.
 
    Technologies Used:
-   Python language,
+   Python language
+
+   --Password Generator:
+   Customizable password generation.
+   Secure and random passwords.
+   
+   --Stone Paper Scissor Game:
+   Interactive gameplay.
+   Randomized computer moves.
+   
+   --To-Do List Application:
+   Task management (add, edit, delete).
+   Responsive design.
